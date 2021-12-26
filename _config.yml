@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "xi'an-China"
-title                    : "chengji253/ Site Title"
+title                    : "chengji253"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/chengji253"
+  github           : "github.com/chengji253"
   google_plus      :
   keybase          :
   instagram        :
