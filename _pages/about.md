@@ -10,5 +10,5 @@ redirect_from:
 
 About me
 ======
-* B.S.  Aircraft Design -  Northwestern Polytechnical University, 2015-2019
+* B.S.  Aerospace Engineering  -  Northwestern Polytechnical University, 2015-2019
 * M.S.  Control Science and Engineering - Northwestern Polytechnical University, 2019-2022
