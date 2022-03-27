@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://chengji253.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+pretty-url               : https://liuhan253.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chengji253/chengji253.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
