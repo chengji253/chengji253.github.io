@@ -12,7 +12,7 @@ About me
 ======
 I am a PhD Candidate at the School of Computer Science, Sun Yat-sen University, under supervision of Prof. Kai Huang.
 
-Before starting my Phd, I have worked as a algorithm engineer Intern at Huawei IAS BU in Hangzhou. I have also worked as a robotics algorithm engineer at CVTE in Guangzhou.
+Before starting my PhD, I have worked as a algorithm engineer Intern at Huawei IAS BU in Hangzhou. I have also worked as a robotics algorithm engineer at CVTE in Guangzhou.
 
 I obtained my Bachelor's Degree and Master's Degree in control science and engineering, school of automation, Northwestern Polytechnical University, where I did research in multi UAVs under supervision of Prof. Jinwen Hu. You can find more info about my work in my github repositories.
 
