@@ -10,6 +10,9 @@ redirect_from:
 
 About me
 ======
+
+![avatar](../images/pic1.jpg)
+
 I am a PhD Candidate at the School of Computer Science, Sun Yat-sen University, under supervision of Prof. Kai Huang.
 
 Before starting my PhD, I have worked as a algorithm engineer Intern at Huawei IAS BU in Hangzhou. I have also worked as a robotics algorithm engineer at CVTE in Guangzhou.
