@@ -11,7 +11,6 @@ redirect_from:
 About me
 ======
 
-![avatar](../images/pic1.jpg)
 
 I am a PhD Candidate at the School of Computer Science, Sun Yat-sen University, under supervision of Prof. Kai Huang.
 
