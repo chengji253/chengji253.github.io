@@ -21,8 +21,18 @@ I obtained my Bachelor's Degree and Master's Degree in control science and engin
 -------
 
 
+
+
+Publications
+======
+**Han Liu**, Kai Huang, et al.  
+   *Congestion-Aware Scheduling Strategies for Multi-UAV Systems*.  
+   **IEEE Transactions on Automation Science and Engineering (T-ASE)**, 2024. 
+
+
+-------
 Education
 ======
-* PhD Candidate - Sun Yat-sen University, since 2022
-* M.S. - Northwestern Polytechnical University, 2019-2022
-* B.S. - Northwestern Polytechnical University, 2015-2019
+* PhD  - Sun Yat-sen University, 2022.9-2026.6
+* M.S. - Northwestern Polytechnical University, 2019.9-2022.4
+* B.S. - Northwestern Polytechnical University, 2015.9-2019.6
