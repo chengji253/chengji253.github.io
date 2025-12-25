@@ -38,7 +38,7 @@ Han Liu, Tian Liu, Mingyue Cui, Yunxiao Shan, Shuai Zhao, Kai Huang. <br>
 
 **EANS: Reducing Energy Consumption for UAV with an Environmental Adaptive Navigation Strategy**.  
 Tian Liu†, Han Liu†, Boyang Li, Long Chen, Kai Huang. <br>
-**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2024. 
+**IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2025. 
 
 
 **A Real-Time System for Scheduling and Managing UAV Delivery in Urban Areas**.  
