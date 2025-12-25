@@ -20,6 +20,9 @@ I obtained my Bachelor's Degree and Master's Degree in control science and engin
 
 -------
 
+
+Education
+======
 * PhD Candidate - Sun Yat-sen University, since 2022
 * M.S. - Northwestern Polytechnical University, 2019-2022
 * B.S. - Northwestern Polytechnical University, 2015-2019
