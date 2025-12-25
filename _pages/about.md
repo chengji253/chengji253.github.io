@@ -24,29 +24,29 @@ I obtained my Bachelor's Degree and Master's Degree in control science and engin
 
 Publications
 ======
-**From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems**.  
+- **From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems**.  
 Han Liu, Yu Jin, Mingyue Cui, Boyang Li, Tianjiang Hu, Kai Huang. <br>
 **IEEE Transactions on Automation Science and Engineering (T-ASE)**, 2026. 
 
-**Energy Efficient Scheduling for Position Reconfiguration of Swarm Drones**.  
+- **Energy Efficient Scheduling for Position Reconfiguration of Swarm Drones**.  
 Han Liu, Mingxin Wei, Shuai Zhao, Hui Cheng, Kai Huang. <br>
 **IEEE Transactions on Automation Science and Engineering (T-ASE)**, 2025. 
 
-**An Efficient Position Reconfiguration Approach for Maximizing Lifetime of Fixed-wing Swarm Drones**.  
+- **An Efficient Position Reconfiguration Approach for Maximizing Lifetime of Fixed-wing Swarm Drones**.  
 Han Liu, Tian Liu, Mingyue Cui, Yunxiao Shan, Shuai Zhao, Kai Huang. <br>
 **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2024. 
 
-**EANS: Reducing Energy Consumption for UAV with an Environmental Adaptive Navigation Strategy**.  
+- **EANS: Reducing Energy Consumption for UAV with an Environmental Adaptive Navigation Strategy**.  
 Tian Liu†, Han Liu†, Boyang Li, Long Chen, Kai Huang. <br>
 **IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)**, 2025. 
 
 
-**A Real-Time System for Scheduling and Managing UAV Delivery in Urban Areas**.  
+- **A Real-Time System for Scheduling and Managing UAV Delivery in Urban Areas**.  
 Han Liu, Tian Liu, Kai Huang. <br>
 **IEEE International Conference on Robotics and Biomimetics (ROBIO)**, 2025. 
 
 
-**Consensus-based control of multiple fixed-wing UAVs using distributed model predictive control**.  
+- **Consensus-based control of multiple fixed-wing UAVs using distributed model predictive control**.  
 Han Liu, Jinwen Hu, Chunhui Zhao, Xiaolei Hou, Zhao Xu, Quan Pan. <br>
 **International Conference on Information, Cybernetics, and Computational Social Systems (ICCSS)**, 2020. 
 
