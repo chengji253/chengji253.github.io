@@ -25,7 +25,7 @@ I obtained my Bachelor's Degree and Master's Degree in control science and engin
 Publications
 ======
 **From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems**.  
-Han Liu, Yu Jin, Mingyue Cui, Boyang Li, Tianjiang Hu, Kai Huang. 
+Han Liu, Yu Jin, Mingyue Cui, Boyang Li, Tianjiang Hu, Kai Huang. <br>
 **IEEE Transactions on Automation Science and Engineering (T-ASE)**, 2026. 
 
 *Energy Efficient Scheduling for Position Reconfiguration of Swarm Drones*.  
