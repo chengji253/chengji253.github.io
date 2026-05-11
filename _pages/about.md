@@ -44,7 +44,7 @@ Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; gap: 15px;">
-  <img src="/images/t2.jpg" alt="Fixed-wing Swarm Reconfiguration teaser" style="width: 280px; height: auto; flex-shrink: 0; border: 1px solid #eee; border-radius: 4px;">
+  <img src="/images/t5.jpg" alt="Fixed-wing Swarm Reconfiguration teaser" style="width: 280px; height: auto; flex-shrink: 0; border: 1px solid #eee; border-radius: 4px;">
   <div>
     <strong>An Efficient Position Reconfiguration Approach for Maximizing Lifetime of Fixed-wing Swarm Drones</strong>.<br>
     Han Liu, Tian Liu, Mingyue Cui, Yunxiao Shan, Shuai Zhao, Kai Huang.<br>
@@ -71,7 +71,7 @@ Publications
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; gap: 15px;">
-  <img src="/images/t1.jpg" alt="Consensus MPC teaser" style="width: 280px; height: auto; flex-shrink: 0; border: 1px solid #eee; border-radius: 4px;">
+  <img src="/images/t6.jpg" alt="Consensus MPC teaser" style="width: 280px; height: auto; flex-shrink: 0; border: 1px solid #eee; border-radius: 4px;">
   <div>
     <strong>Consensus-based control of multiple fixed-wing UAVs using distributed model predictive control</strong>.<br>
     Han Liu, Jinwen Hu, Chunhui Zhao, Xiaolei Hou, Zhao Xu, Quan Pan.<br>
