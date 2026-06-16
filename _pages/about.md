@@ -25,22 +25,13 @@ I obtained my Bachelor's Degree and Master's Degree in control science and engin
 Publications
 ======
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 25px; gap: 15px; flex-wrap: wrap;">
-  <!-- 图片稍微缩小一点 -->
-  <img src="/images/t1.jpg" alt="From Edge to Edge teaser" style="width: 240px; height: auto; flex-shrink: 0; border: 1px solid #eee; border-radius: 4px; margin-top: 6px;">
-  <div style="line-height: 1.6; flex: 1; min-width: 300px;">
-    <!-- 标题 -->
-    <div style="margin-bottom: 4px;">
-      <strong>From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems</strong>.
-    </div>
-    <!-- 作者，加粗 Han Liu -->
-    <div style="margin-bottom: 4px; color: #444;">
-      <strong>Han Liu</strong>, Yu Jin, Mingyue Cui, Boyang Li, Tianjiang Hu, Kai Huang.
-    </div>
-    <!-- 期刊名，使用斜体并保留缩写，加深颜色 -->
-    <div style="color: #666;">
-      <em>IEEE Transactions on Automation Science and Engineering (T-ASE)</em>, 2026.
-    </div>
+<div style="display: flex; align-items: flex-start; margin-bottom: 25px; gap: 15px;">
+  <!-- 将 width 修改为 220px -->
+  <img src="/images/t1.jpg" alt="From Edge to Edge teaser" style="width: 220px; height: auto; flex-shrink: 0; border: 1px solid #eee; border-radius: 4px; margin-top: 6px;">
+  <div style="line-height: 1.5;">
+    <strong>From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems</strong>.<br>
+    Han Liu, Yu Jin, Mingyue Cui, Boyang Li, Tianjiang Hu, Kai Huang.<br>
+    <strong>IEEE Transactions on Automation Science and Engineering (T-ASE)</strong>, 2026.
   </div>
 </div>
 
