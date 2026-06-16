@@ -29,8 +29,11 @@ Publications
   <img src="/images/t1.jpg" alt="From Edge to Edge teaser" style="width: 280px; height: auto; flex-shrink: 0; border: 1px solid #eee; border-radius: 4px; margin-top: 6px;">
   <div style="line-height: 1.5;">
     <strong>From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems</strong>.<br>
-    Han Liu, Yu Jin, Mingyue Cui, Boyang Li, Tianjiang Hu, Kai Huang.<br>
-    <strong>IEEE Transactions on Automation Science and Engineering (T-ASE)</strong>, 2026.
+    
+    <div style="font-size: 14px; color: #444; margin-top: 4px;">
+      Han Liu, Yu Jin, Mingyue Cui, Boyang Li, Tianjiang Hu, Kai Huang.<br>
+      <strong>IEEE Transactions on Automation Science and Engineering (T-ASE)</strong>, 2026.
+    </div>
   </div>
 </div>
 
