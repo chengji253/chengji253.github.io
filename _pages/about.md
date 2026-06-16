@@ -26,8 +26,7 @@ Publications
 ======
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 25px; gap: 15px;">
-  <!-- 将 width 修改为 220px -->
-  <img src="/images/t1.jpg" alt="From Edge to Edge teaser" style="width: 220px; height: auto; flex-shrink: 0; border: 1px solid #eee; border-radius: 4px; margin-top: 6px;">
+  <img src="/images/t1.jpg" alt="From Edge to Edge teaser" style="width: 280px; height: auto; flex-shrink: 0; border: 1px solid #eee; border-radius: 4px; margin-top: 6px;">
   <div style="line-height: 1.5;">
     <strong>From Edge to Edge: A Flow-Inspired Scheduling Planner for Multi-Robot Systems</strong>.<br>
     Han Liu, Yu Jin, Mingyue Cui, Boyang Li, Tianjiang Hu, Kai Huang.<br>
