@@ -12,11 +12,13 @@ About me
 ======
 
 
-I am a PhD Candidate at the School of Computer Science, Sun Yat-sen University, under supervision of Prof. Kai Huang.
+I received my Ph.D. degree from the School of Computer Science, Sun Yat-sen University, under the supervision of Prof. Kai Huang.
 
-Before starting my PhD, I have worked as a algorithm engineer Intern at Huawei IAS BU in Hangzhou. I have also worked as a robotics algorithm engineer at CVTE in Guangzhou.
+Prior to that, I received both my Bachelor's and Master's degrees in Control Science and Engineering from the School of Automation, Northwestern Polytechnical University, under the supervision of Prof. Jinwen Hu.
 
-I obtained my Bachelor's Degree and Master's Degree in control science and engineering, school of automation, Northwestern Polytechnical University, where I did research in multi UAVs under supervision of Prof. Jinwen Hu. You can find more info about my work in my github repositories.
+My research focuses on optimization and planning for robotic systems. I am particularly interested in developing optimization-based methods for multi-robot coordination, task allocation, scheduling, and autonomous decision-making.
+
+More information about my research can be found in my GitHub repositories.
 
 -------
 
